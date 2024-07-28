@@ -14,6 +14,11 @@
     On a mission to solve problems through code, I continually refine my skills to stay ahead of tech curves. I believe in collaborative growth, sharing knowledge and insights with my peers through coding workshops and tech meetups.
     Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!<br><br>✉️ Email: <a href=>emonhossain6373@gmail.com</a>
 
+
+    ✉️ Email: atikul.official2020@gmail.com </p>
+
+
+
 </p>
 
 <br>

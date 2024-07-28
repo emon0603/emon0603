@@ -17,7 +17,7 @@
 </p>
 <p>
 
-✉️ Email: <a href= "emonhossain6373@gmail.com" > </a>
+✉️ Email: **emonhossain6373@gmail.com**
 
 </p>
 

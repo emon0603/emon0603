@@ -12,9 +12,7 @@
 <p>Ever wonder what magic happens when tech meets creativity? Dive in to see how I blend art and code to craft bespoke digital experiences. As a seasoned developer, I've journeyed through the realms of JavaScript, Java, and PHP, focusing on Android applications that resonate and engage.
     Three years ago, I embarked on my coding journey driven by a simple curiosity: how do digital platforms that shape our daily lives come into existence? Since then, my curiosity has evolved into a passion, compelling me to master various technologies.
     On a mission to solve problems through code, I continually refine my skills to stay ahead of tech curves. I believe in collaborative growth, sharing knowledge and insights with my peers through coding workshops and tech meetups.
-    Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!
-    
-    ✉️ Email: <a href=>emonhossain6373@gmail.com</a>
+    Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!<br><br>✉️ Email: <a href=>emonhossain6373@gmail.com</a>
 
 </p>
 

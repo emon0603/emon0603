@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emon+Hossain;" />
 </h1>
-<h3 align="center">Expert in JAVA in Android Studio || PHP || Application Developer</h3>
+<h3 align="center">Expert in JAVA in Android Studio || Android Application Developer</h3>
 
 <img align="right" alt ="coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuddle.eurostarsoftwaretesting.com%2Fhow-to-become-an-android-developer-7-tips%2F&psig=AOvVaw0gh0MsA_rUIVU8DDQD5lph&ust=1722181123246000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi3yv7hxseHAxXDwzgGHaVpG-UQjRx6BAgAEBU" >
 

@@ -17,7 +17,7 @@
 </p>
 <p>
 
-✉️ Email: <a href=>"emonhossain6373@gmail.com" target = "_blank" > Email</a>
+✉️ Email: <a href=>"emonhossain6373@gmail.com" </a>
 
 </p>
 
